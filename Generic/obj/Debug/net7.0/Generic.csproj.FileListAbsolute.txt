@@ -1,0 +1,4 @@
+C:\Tobeto\1A\iyiProgramcıSerisi\iyi programcı serisi\Generic\obj\Debug\net7.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\iyiProgramcıSerisi\iyi programcı serisi\Generic\obj\Debug\net7.0\Generic.AssemblyInfoInputs.cache
+C:\Tobeto\1A\iyiProgramcıSerisi\iyi programcı serisi\Generic\obj\Debug\net7.0\Generic.AssemblyInfo.cs
+C:\Tobeto\1A\iyiProgramcıSerisi\iyi programcı serisi\Generic\obj\Debug\net7.0\Generic.csproj.CoreCompileInputs.cache
